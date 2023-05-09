@@ -18,4 +18,4 @@ My GitHub page is http://github.com/karinavera089.
 
 * Lab 8 Part 1 https://github.com/cpsc-spring-2023/cpsc-120-lab-08-karina-and-max/tree/main/part-1
 
-    Lastly, my third favorite has to be lab 8 part 1. In this lab we created a stitching pattern program through encapsulated loops. This was one of my favorites as it helped me get comfortable with the use of loops. It was challenging as we had an infinite loop error, but through tracing my code, I was able to resolve a syntax error.
+    Lastly, my third favorite is lab 8 part 1. In this lab we created a stitching pattern program through encapsulated loops. This was one of my favorites as it helped me get comfortable with the use of loops. I had issues with the pre- and post- incrementation of the pattern but this solidified knowledge on incrementation.It was challenging for a pattern output, but through tracing my code, I was able to resolve a comand line error that occurred.
