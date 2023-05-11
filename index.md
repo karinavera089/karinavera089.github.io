@@ -4,7 +4,7 @@ This is my home page! My name is Karina Vera and I am a student at [Cal State Fu
 
 ## Computer Science Projects
 
-My GitHub page is [http://github.com/karinavera089]
+My GitHub page is [https://github.com/karinavera089]
 
 ### CPSC 120
 
